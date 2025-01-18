@@ -1,3 +1,6 @@
+
+
+
 body{
     margin:0%;
 }
@@ -43,9 +46,9 @@ main{
     grid-template-rows: 1fr;
     padding: 1rem;
     margin: 1rem;
-    padding-top: 1rem; /* Adds space above the main content*/
+    padding-top: 1rem; /* Adds space above the main content*/}
    
-}
+
 
 .flag{
     position: static;
@@ -97,7 +100,8 @@ section h1{
     flex-direction: row;
     padding-left: 5%;
     padding-right: 5%;
-    padding-top: auto;
+    width: 900px;
+   
 }
 
 .images{
@@ -151,7 +155,7 @@ h3{
     flex-direction: row;
     padding-left: 3%;
     padding-right: 5%;
-    padding-top: auto;
+    width: 700px;
     width: 70%;
 }
 
